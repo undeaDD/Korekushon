@@ -54,15 +54,15 @@ features:
     fontawesome_icon_name: lightbulb-slash
 
   - title: Übersicht behalten
-    description: Display a smart app banner on iOS devices.
+    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
     fontawesome_icon_name: tally
 
   - title: Support & Updates
-    description: Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
     fontawesome_icon_name: pen-to-square
 
   - title: Integrationen
-    description: Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
     fontawesome_icon_name: earth-europe
 
 # Theme Settings
@@ -74,7 +74,7 @@ cover_image: assets/headerimage.png # Replace with alternative image path or ima
 cover_overlay_color: "#363b3d"
 cover_overlay_transparency: 0.8
 
-device_color: black # Set to: blue, black, yellow, coral or white.
+device_color: white # Set to: blue, black, yellow, coral or white.
 
 body_background_color: "#ffffff"
 
