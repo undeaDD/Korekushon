@@ -2,8 +2,8 @@
 	height: 714px;
 	background: 
 		linear-gradient(
-		rgba($image-overlay-color, $image-overlay-transparency), 
-		rgba($image-overlay-color, $image-overlay-transparency)
+		rgba(25, 11, 38, 0.36), 
+		rgba(127, 44, 210, 0.28)
 		   ),
 		
 		url($header-image);
@@ -17,7 +17,7 @@
 
 .headerBackground {
 	height: 115px;
-	background-color: rgba($header-color, $header-transparency);
+	background-color: #7f2cd287;
 }
 
 @media only screen and (max-width: 768px) {
