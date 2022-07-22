@@ -31,6 +31,7 @@
               <video
                 class="screenvideo"
                 autoplay
+                muted
                 playsinline
                 style="pointer-events: none"
               ></video>
@@ -68,14 +69,14 @@
               <p class="appDescription">{{ site.app_description }}</p>
             </div>
             <div class="downloadButtonsContainer">
+              <a class="appStoreLink" href="{{site.appstore_link}}"
+                ><img class="appStore" src="assets/appstore.png"
+              /></a>
               {% if site.playstore_link %}
               <a class="playStoreLink" href="{{site.playstore_link}}"
                 ><img class="playStore" src="assets/playstore.png"
               /></a>
               {% endif %}
-              <a class="appStoreLink" href="{{site.appstore_link}}"
-                ><img class="appStore" src="assets/appstore.png"
-              /></a>
             </div>
           </div>
           {% include features.html %} {% include footer.html %} {% include
