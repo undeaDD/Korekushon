@@ -30,39 +30,39 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: Mangas Verwalten
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Verwalte ganz einfach deine Mangas durch wenige Klicks. Qualität, Preis, Kaufdatum, Duplikate und vieles mehr.
     fontawesome_icon_name: book
 
   - title: Merkliste
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Fülle deine Sammlung jetzt noch einfacher, ohne das lästige rätseln und erinnern welcher Band noch fehlt.
     fontawesome_icon_name: book-bookmark
 
   - title: Erkunden
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Mit mehr als 5000 Mangas sollte für jeden etwas dabei sein. Es gibt außerdem die Möglichkeit Zufällige Mangas auszuwählen.
     fontawesome_icon_name: magnifying-glass
 
   - title: Freunde finden
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Freunde ganz bequem via E-Mail hinzufügen. Ganz praktisch wenn man sich gegenseitig Mangas schenkt / kauft und wissen will welche noch gewünscht sind.
     fontawesome_icon_name: user-group
 
   - title: Animationen
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Jede Saison hat ihre eigene schöne Animation ^^ Einfach mal ausprobieren und genießen.
     fontawesome_icon_name: wand-magic-sparkles
 
   - title: Dark Mode
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Für alle die gerne Abends lesen und ihre Sammlung einsehen wollen. Augenschmerzen nein danke.
     fontawesome_icon_name: moon
 
   - title: Übersicht behalten
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: "Jederzeit und überall auf die eigene Sammlung zugreifen können. Fragen wie: 'Welcher Teil von Black Bird fehlt mir noch?' gehören mit Korekushon der Vergangenheit an."
     fontawesome_icon_name: eye
 
   - title: Support & Updates
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Bei Fragen oder Wünschen ( Features, Bugs, ... ) einfach via App ein Feedback absenden. Oder alternativ für Fortgeschrittene in github eine neue Issue eröffnen.
     fontawesome_icon_name: pen-to-square
 
   - title: Integrationen
-    description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+    description: Details von Mangas werden direkt von Mangaguide.de abgerufen. Der Thalia Tab ermöglicht das schnelle Bestellen von Mangas direkt aus der App.
     fontawesome_icon_name: earth-europe
 
 # Theme Settings
