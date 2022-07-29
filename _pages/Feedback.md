@@ -4,4 +4,6 @@ title: Feedback
 include_in_header: true
 ---
 
-<iframe src="https://korekushonx.canny.io/feedback" title="KorekushonX Feedback"></iframe>
+<script>
+    window.location.href = "https://korekushonx.canny.io/feedback";
+</script>
