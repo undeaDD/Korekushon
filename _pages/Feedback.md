@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: redirect
 title: Feedback
 include_in_header: true
 ---
